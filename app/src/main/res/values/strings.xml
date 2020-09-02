@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Age Calculator</string>
+    <string name="enter_your_birth_date_in_dd_mm_yyyy_format">Enter your Birth_Date:</string>
+    <string name="yyyy">YYYY</string>
+    <string name="dd">DD</string>
+    <string name="mm">MM</string>
+    <string name="enter_date">ENTER D.O.B</string>
+    <string name="calculate">CALCULATE AGE</string>
+    <string name="todo">TODO</string>
+    <string name="note_please_enter_birth_date_accordingly_for_example_16_11_2000">Note* - Please
+        enter birth date in this format : dd/mm/yyyy (including /).</string>
+</resources>
